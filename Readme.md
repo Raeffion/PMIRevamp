@@ -1,5 +1,5 @@
 # [PMIRevamp](https://mabimods.net/index.php?topic=17936.0)
-Mabinogi Interfaces based from [Venom Log's Poison Metro Interface.](https://mabimods.net/index.php?topic=17936.msg250882#new)
+Mabinogi Interfaces based from [Venom Log's Poison Metro Interface.](https://mabimods.net/index.php?topic=16915.0)
 
 ## Features:
 Two Color Themes with 4 Assorted Accents
