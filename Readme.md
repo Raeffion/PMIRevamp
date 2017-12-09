@@ -21,7 +21,7 @@ Note: This theme replaces Mabinogi's Electric Gray interface (or "black.dds") by
 
 ## Contributions
 Contributions are welcome. If you are contributing a patch that you aren't the original author of, please give credits at the top of the file. If a patch has been added and you are the original author of it or know who is, issue a pull request or open an issue so that proper credits may be given.
-
+### Contributors
 * [Venom Log](https://mabimods.net/index.php?action=profile;u=35651)
     * [Poison Metro Interface Development Kit](https://www.dropbox.com/s/gnab9pma3ce70f6/Poison%20Metro%20Interface%20Development%20Kit.zip?dl=0)
 
