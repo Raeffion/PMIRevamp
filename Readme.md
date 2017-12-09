@@ -2,9 +2,9 @@
 Mabinogi Interfaces based from [Venom Log's Poison Metro Interface.](https://mabimods.net/index.php?topic=16915.0)
 
 ## Features:
-Two Color Themes with 4 Assorted Accents
-Digitized Damage and Heal Numbers
-Login Interface Changes
+* Two Color Themes with 4 Assorted Accents
+* Digitized Damage and Heal Numbers
+* Login Interface Changes
 
 ## Installation:
 1. Ensure Mabinogi is closed and unblock the files downloaded in the file properties if necessary.
