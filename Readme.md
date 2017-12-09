@@ -19,6 +19,9 @@ Login Interface Changes
 6. Move the pack file you created into "C:\[Mabinogi Directory]\package"
 Note: This theme replaces Mabinogi's Electric Gray interface (or "black.dds") by default. To make the interface load with a different Mabinogi interface, simply rename the file in accordance to its individual dds file. (i.e. "apricots.dds" "skyblue.dds" etc.)
 
+## Contributions
+Contributions are welcome. If you are contributing a patch that you aren't the original author of, please give credits at the top of the file. If a patch has been added and you are the original author of it or know who is, issue a pull request or open an issue so that proper credits may be given.
+
 A friendly reminder about mods: The use of mods are by no means risk-free. Even if you think it's a cool interface, only mention it to trustworthy people in private at your own risk; preferably, not in-game. It's no fault of my own if Nexon suspends your account.
 
 Thanks to Venom Log for providing the Mabimods Community the Poison Metro Interface Development Kit.
