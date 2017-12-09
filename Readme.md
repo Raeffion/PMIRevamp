@@ -1,17 +1,16 @@
-# PMIRevamp
-Mabinogi Interfaces based from Venom Log's Poison Metro Interface.
-https://mabimods.net/index.php?topic=17936.msg250882#new
+# [PMIRevamp](https://mabimods.net/index.php?topic=17936.0)
+Mabinogi Interfaces based from [Venom Log's Poison Metro Interface.](https://mabimods.net/index.php?topic=17936.msg250882#new)
 
-##Features:
+## Features:
 Two Color Themes with 4 Assorted Accents
 Digitized Damage and Heal Numbers
 Login Interface Changes
 
-##Installation:
+## Installation:
 1. Ensure Mabinogi is closed and unblock the files downloaded in the file properties if necessary.
 2. Place "PMIRevamp_RXXX[Color].pack" in "C:\[Mabinogi Directory]\package" and enjoy.
 
-##Personalization:
+## Personalization:
 1. Install Logue's MabiPacker if you don't already have it
 2. Open "PMIRevamp[Color]_RXXX.pack" with MabiPacker.
 3. Extract the file to your preferred directory.
